@@ -1,3 +1,5 @@
+If you need the source code, please contact the author via email at: junfu.xhu@foxmail.com
+
 Official implementation of **"An NSNP-Inspired Multi-Scale Feature Purification Network for Image Forgery Localization"**.
 
 FPNet-NSNP is an image forgery localization framework inspired by the nonlinear spiking neural P system (NSNP). The model introduces NSNP-inspired computational mechanisms into deep neural networks and integrates multi-scale feature perception, cross-layer feature fusion, and feature purification strategies to improve the localization accuracy of tampered regions in digital images.
